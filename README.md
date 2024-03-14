@@ -1,4 +1,12 @@
 ### Hi there 👋
+I am a computer science student now finishing with my studies and starting my career.
+I am into multiple fields and still expirimenting with many tools, programmings languages and frameworks.
+I am currently learning JavaScript and React Native to start building my own apps.
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+I am currently doing the 30 nites of code challenge while learning javaScript here is my pet ! 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@nikitasgio2114865/30-nites-of-code)  
+  ![@nikitasgio2114865 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nikitasgio2114865)
 
 <!--
 **giorgos-nikits/giorgos-nikits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
