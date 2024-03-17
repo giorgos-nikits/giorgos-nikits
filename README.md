@@ -2,12 +2,12 @@
 <h3 align="center">I am a computer science student now finishing with my studies and starting my career.
 I am into multiple fields and still expirimenting with many tools, programmings languages and frameworks.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakartu" alt="bakartu" /></a> </p>
 
 - 🌱 I’m currently learning **Learning JavaScript and React Native**
 
-I am currently doing the 30 nites of code challenge while learning javaScript here is my pet ! 
+
 ## #30NitesOfCode:
+I am currently doing the 30 nites of code challenge while learning javaScript here is my pet ! 
   [Check out my progress!](https://www.codedex.io/@nikitasgio2114865/30-nites-of-code)  
   ![@nikitasgio2114865 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nikitasgio2114865)
 
