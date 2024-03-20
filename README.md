@@ -5,6 +5,9 @@ I am into multiple fields and still expirimenting with many tools, programmings 
 
 - 🌱 I’m currently learning **Learning JavaScript and React Native**
 
+<h3 align="center">I am also into Game Development</h3>
+<h1>Play some of the games I have created here:</h1>
+https://bakartu.itch.io/
 
 ## #30NitesOfCode:
 I am currently doing the 30 nites of code challenge while learning javaScript here is my pet ! 
