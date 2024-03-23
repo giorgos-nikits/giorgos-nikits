@@ -9,6 +9,9 @@ I am into multiple fields and still expirimenting with many tools, programmings 
 <h3>Play some of the games I have created here:</h1>
 https://bakartu.itch.io/
 
+<h3>Cyber Security</h3>
+<script src="https://tryhackme.com/badge/2794003"></script>
+
 ## #30NitesOfCode:
 I am currently doing the 30 nites of code challenge while learning javaScript here is my pet ! 
   [Check out my progress!](https://www.codedex.io/@nikitasgio2114865/30-nites-of-code)  
