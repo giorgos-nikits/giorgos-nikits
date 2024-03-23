@@ -10,7 +10,7 @@ I am into multiple fields and still expirimenting with many tools, programmings 
 https://bakartu.itch.io/
 
 <h3>Cyber Security</h3>
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/Bakartu.png" alt="TryHackMe">
 
 ## #30NitesOfCode:
 I am currently doing the 30 nites of code challenge while learning javaScript here is my pet ! 
