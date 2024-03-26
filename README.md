@@ -5,7 +5,6 @@ I am into multiple fields and still expirimenting with many tools, programmings 
 
 - 🌱 I’m currently learning **Learning JavaScript and React Native**
 
-//<h1 align="center">I am also into Game Development</h3>
 ## I Am Also Into Game Development
 <h3>Play some of the games I have created here:</h1>
 https://bakartu.itch.io/
