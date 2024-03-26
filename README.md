@@ -9,7 +9,7 @@ I am into multiple fields and still expirimenting with many tools, programmings 
 <h3>Play some of the games I have created here:</h1>
 https://bakartu.itch.io/
 
-<img src="https://www.codewars.com/users/GioNik/badges/small" alt="Code Wars Badge" width="40" height="40"/>
+<img src="https://www.codewars.com/users/GioNik/badges/small" alt="Code Wars Badge"/>
 
 
 ## #30NitesOfCode:
