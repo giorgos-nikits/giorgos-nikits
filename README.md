@@ -3,7 +3,7 @@
 I am into multiple fields and still expirimenting with many tools, programmings languages and frameworks.</h3>
 
 
-- 🌱 I’m currently learning **Learning JavaScript and React Native**
+- 🌱 I’m currently learning **JavaScript and React Native**
 
 ## I Am Also Into Game Development
 <h3>Play some of the games I have created here:</h1>
