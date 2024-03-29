@@ -9,9 +9,6 @@ I am into multiple fields and still expirimenting with many tools, programmings 
 <h3>Play some of the games I have created here:</h1>
 https://bakartu.itch.io/
 
-## Code Wars
-<img src="https://www.codewars.com/users/GioNik/badges/small" alt="Code Wars Badge"/>
-
 
 ## #30NitesOfCode:
 I am currently doing the 30 nites of code challenge while learning javaScript here is my pet ! 
